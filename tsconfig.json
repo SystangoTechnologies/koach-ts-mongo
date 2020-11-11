@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "module": "commonjs",
+        "target": "ES6",
+        "outDir": "dist",
+        "rootDir": "src",
+        "sourceMap": false,
+        "listFiles": false,
+        "esModuleInterop": true,
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+        "src/resources/swagger"
+    ]
+}
